@@ -1,9 +1,10 @@
 /*
- * Full Name: [Your Full Name]
- * Section: [IV-BSIT A/B/C]
- * Activity Code: N5 - REST-style API
- * Date: December 2026
+ * Full Name: Benedict Matthew O. Zacarias
+ * Section: IV-BSIT-A
+ * Activity Code: N5: REST-style AP
+ * Date: November 16, 2026
  */
+
 
 const http = require("http");
 
