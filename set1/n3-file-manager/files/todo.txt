@@ -1,0 +1,2 @@
+1. Tapusin ang Set 1 N3: File-Manager Activity
+2. Mag-push sa GitHub
