@@ -8,11 +8,11 @@
 
 
 
-const os = require("os"); // Built-in module
+const os = require("os"); 
 const ops = require("./operations");
 const { formatResult } = require("./formatter");
 
-// Kunin ang arguments mula sa terminal: node index.js <op> <num1> <num2>
+
 const args = process.argv.slice(2);
 const operation = args[0];
 const num1 = parseFloat(args[1]);
